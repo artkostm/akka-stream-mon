@@ -4,7 +4,7 @@ import scalariform.formatter.preferences._
 name := "akka-stream-mon"
 organization := "net.ruippeixotog"
 
-scalaVersion := "2.12.4"
+scalaVersion := "2.11.12"
 
 libraryDependencies ++= Seq(
   "com.typesafe.akka"   %% "akka-stream"          % "2.5.11",
